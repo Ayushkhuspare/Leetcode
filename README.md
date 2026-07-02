@@ -90,9 +90,14 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayushkhuspare/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Ayushkhuspare/Leetcode/tree/master/0155-min-stack) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ayushkhuspare/Leetcode/tree/master/0155-min-stack) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ayushkhuspare/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
