@@ -92,6 +92,7 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushkhuspare/Leetcode/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ayushkhuspare/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Ayushkhuspare/Leetcode/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -106,4 +107,16 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushkhuspare/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ayushkhuspare/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ayushkhuspare/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ayushkhuspare/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
