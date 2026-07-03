@@ -82,6 +82,7 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushkhuspare/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Ayushkhuspare/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
@@ -100,4 +101,9 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushkhuspare/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushkhuspare/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushkhuspare/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
