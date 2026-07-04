@@ -124,6 +124,7 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayushkhuspare/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushkhuspare/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ayushkhuspare/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/Ayushkhuspare/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -138,8 +139,10 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 | [0100-same-tree](https://github.com/Ayushkhuspare/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ayushkhuspare/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Ayushkhuspare/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/Ayushkhuspare/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/Ayushkhuspare/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/Ayushkhuspare/Leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
