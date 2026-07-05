@@ -105,6 +105,7 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 | [0020-valid-parentheses](https://github.com/Ayushkhuspare/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushkhuspare/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ayushkhuspare/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Ayushkhuspare/Leetcode/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -146,4 +147,16 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 | ------- |
 | [0841-keys-and-rooms](https://github.com/Ayushkhuspare/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/Ayushkhuspare/Leetcode/tree/master/1791-find-center-of-star-graph) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ayushkhuspare/Leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ayushkhuspare/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ayushkhuspare/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
