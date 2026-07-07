@@ -73,6 +73,7 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ayushkhuspare/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Ayushkhuspare/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -102,6 +103,7 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ayushkhuspare/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ayushkhuspare/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ayushkhuspare/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushkhuspare/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -151,6 +153,7 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ayushkhuspare/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Ayushkhuspare/Leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
