@@ -153,6 +153,7 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Ayushkhuspare/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ayushkhuspare/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Ayushkhuspare/Leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
