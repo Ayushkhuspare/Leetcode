@@ -172,11 +172,13 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ayushkhuspare/Leetcode/tree/master/0067-add-binary) |
+| [1920-build-array-from-permutation](https://github.com/Ayushkhuspare/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayushkhuspare/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ayushkhuspare/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1920-build-array-from-permutation](https://github.com/Ayushkhuspare/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Trie
 |  |
 | ------- |
