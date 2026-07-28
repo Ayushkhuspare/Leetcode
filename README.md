@@ -179,6 +179,7 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 | ------- |
 | [0001-two-sum](https://github.com/Ayushkhuspare/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ayushkhuspare/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1672-richest-customer-wealth](https://github.com/Ayushkhuspare/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Ayushkhuspare/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ayushkhuspare/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Trie
@@ -189,4 +190,8 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushkhuspare/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Ayushkhuspare/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
