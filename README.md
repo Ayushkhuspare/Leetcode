@@ -89,6 +89,7 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushkhuspare/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Ayushkhuspare/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/Ayushkhuspare/Leetcode/tree/master/0283-move-zeroes) |
 ## Recursion
 |  |
 | ------- |
@@ -179,6 +180,7 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 | ------- |
 | [0001-two-sum](https://github.com/Ayushkhuspare/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ayushkhuspare/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0283-move-zeroes](https://github.com/Ayushkhuspare/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ayushkhuspare/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1672-richest-customer-wealth](https://github.com/Ayushkhuspare/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Ayushkhuspare/Leetcode/tree/master/1920-build-array-from-permutation) |
