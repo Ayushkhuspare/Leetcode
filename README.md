@@ -88,6 +88,7 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushkhuspare/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ayushkhuspare/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushkhuspare/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Ayushkhuspare/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Ayushkhuspare/Leetcode/tree/master/0283-move-zeroes) |
@@ -182,6 +183,7 @@ Here are some of the tracked solutions sorted by their runtime performance metri
 | [0001-two-sum](https://github.com/Ayushkhuspare/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ayushkhuspare/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushkhuspare/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ayushkhuspare/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Ayushkhuspare/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ayushkhuspare/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1672-richest-customer-wealth](https://github.com/Ayushkhuspare/Leetcode/tree/master/1672-richest-customer-wealth) |
